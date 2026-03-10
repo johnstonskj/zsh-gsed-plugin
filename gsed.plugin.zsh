@@ -1,8 +1,10 @@
 # -*- mode: sh; eval: (sh-set-shell "zsh") -*-
 #
-# Plugin Name: gsed
-# Description: Zsh plugin to replace sed with GNU sed.
-# Repository: https://github.com/johnstonskj/zsh-gsed-plugin
+# @name: gsed
+# @brief: Replace `sed`` with GNU sed (`gsed`).
+# @repository: https://github.com/johnstonskj/zsh-gsed-plugin
+# @version: 0.1.1
+# @license: MIT AND Apache-2.0
 #
 # Public variables:
 #
